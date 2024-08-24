@@ -57,7 +57,7 @@ Acceptance Testing: Validates that the software meets business needs and is read
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
- Prompt engineering involves crafting and refining prompts to effectively interact with AI models. It is crucial because well-designed prompts help ensure that AI responses are relevant, accurate, and aligned with user needs, improving the overall effectiveness of AI interactions. 
+Prompt engineering involves crafting and refining prompts to effectively interact with AI models. It is crucial because well-designed prompts help ensure that AI responses are relevant, accurate, and aligned with user needs, improving the overall effectiveness of AI interactions. 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 "Tell me about technology."
